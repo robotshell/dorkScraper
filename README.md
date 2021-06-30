@@ -26,6 +26,8 @@ https://creative-quality.es/.well-known/security.txt
 https://www.canon.es/.well-known/security.txt
 
 ```
+![Example image](https://raw.githubusercontent.com/robotshell/dorkSraper/main/poc.gif)
+
 # About me
 [Twitter](https://twitter.com/robotshelld)
 
