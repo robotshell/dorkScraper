@@ -7,8 +7,6 @@
 
 DorkScraper is an open-source tool designed to scrape URLs using Google dorks. It is a simple Python script that automates the process of searching for specific terms on Google and collecting the resulting URLs. This can be particularly useful for security researchers, penetration testers, and anyone interested in gathering information from search engines using advanced search queries (dorks).
 
-This script is distributed under the terms of the GNU General Public License v3.0.
-
 ## Requirements
 
 - Python 3.x
