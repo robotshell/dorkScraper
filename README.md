@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/robotshell/dorkSraper"><img src="https://i.ibb.co/1LwdRCw/dorkscraper.png" alt="cubeSpraying" style="width:100%"></a>
+  <a href="https://github.com/robotshell/dorkScraper"><img src="https://i.ibb.co/1LwdRCw/dorkscraper.png" alt="cubeSpraying" style="width:100%"></a>
 </h1>
 
 ## Description
@@ -18,7 +18,7 @@ This script is distributed under the terms of the GNU General Public License v3.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/robotshell/dorkSraper
+    git clone https://github.com/robotshell/dorkScraper
     cd dorkSraper
     ```
 
